@@ -52,12 +52,13 @@ Será importante instalação no seu ambiente os itens listados para executar a 
   
     Essa versão do Bot do Whatsapp está respondendo automaticamente TODAS AS MENSAGENS (inclusive de grupos) com um texto predeterminado.
   
-  
+    Para desabilital, basta fechar o navegador Firefox.
+    
 - Para alterar a mensagem do bot basta abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
   
   Dentro de whatsapp_bot.py existe uma variável chamado mensagem_bot(linha 8) onde contem o texto resposta da automação.
   
-  **Obrigado por ter chegado até aqui ;) ,abraço**
+  **Obrigado por ter chegado até aqui :) abraço.**
   
   **Em breve melhorias no comportamento e condições dessa automação, dessa forma a solução terá maior eficiência e usabilidade**
   
