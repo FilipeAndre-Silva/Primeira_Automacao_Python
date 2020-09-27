@@ -50,9 +50,9 @@ Será importante instalação no seu ambiente os itens listados para executar a 
   
     O Bot do Whatsapp agora está ativo no seu navegador :)
   
-    Essa versão do Bot do Whatsapp está respondendo automaticamente TODAS AS MENSAGENS (inclusive de grupos) com um texto predeterminado.
+    Essa versão do Bot Whatsapp está respondendo automaticamente TODAS AS MENSAGENS (inclusive de grupos) com um texto predeterminado.
   
-    Para desabilital, basta fechar o navegador Firefox.
+    Para encerrar, basta fechar o navegador Firefox.
     
 - Para alterar a mensagem do bot basta abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
   
