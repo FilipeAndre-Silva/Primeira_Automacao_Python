@@ -1,2 +1,2 @@
-# Primeira_Automacao_Python
+# Primeira Automacão com Python
 Meu primeiro contato com automação Python e Selenium.
