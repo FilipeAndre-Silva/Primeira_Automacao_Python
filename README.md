@@ -21,8 +21,6 @@ Será importante instalação no seu ambiente os itens listados para executar a 
 
     git clone https://github.com/FilipeAndre-Silva/Primeira_Automacao_Python.git
   - Entrar na pasta do projeto.
-
-
 3. Criar a virtualenv do projeto:
 
     python3 -m venv .venv
