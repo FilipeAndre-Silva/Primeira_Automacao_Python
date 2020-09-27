@@ -3,7 +3,7 @@ Meu primeiro contato com automação Python e Selenium.
 
 Nesse repositório terá minha primeira experiência com automação usando a linguagem de programação Python e o Selenium.
 
-Objetivo: Desenvolver mesmo que de forma simples uma automatização sobre a rede social Whatsapp Web.
+Objetivo: Desenvolver mesmo que de forma simples uma automatização em cima a rede social Whatsapp Web.
 
 Requisitos para execução da automação:
 Será importante instalação no seu ambiente os itens listados para executar a solução.
