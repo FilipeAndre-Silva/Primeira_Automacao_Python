@@ -23,19 +23,27 @@ Caso não tenha o Python instalado acesse o link e faça o download: https://www
 
 
 - Criar a virtualenv do projeto:
-    python3 -m venv .venv
+
+  python3 -m venv .venv
   
-- Iniciar a virtualenv: . ./venv/bin/activate
+- Iniciar a virtualenv:
+  
+  . ./venv/bin/activate
 
 
-- Atualizar o pip: pip3 install --upgrade pip
+- Atualizar o pip:
+  
+  pip3 install --upgrade pip
   
 - Instalar os requisistos: 
+  
   pip install Selenium
   
   pip install webdriver_manager
 
-- Executar o py: python3 whatsapp_bot.py
+- Executar o py:
+  
+  python3 whatsapp_bot.py
   
 - Apois isso o navegador Firefox vai abrir no link do whatsapp web, onde vai aguardar a sua autenticação pelo QR code.
   
