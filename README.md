@@ -12,41 +12,41 @@ Será importante instalação no seu ambiente os itens listados para executar a 
 - Webdriver_manager
 - Navegador Firfox
 
-# Passo a Passo
-- Utilizando o terminal:
+## Passo a Passo
+1. Utilizando o terminal:
 
   Caso não tenha o Python instalado acesse o link : https://www.python.org/
 
-- Clone o projeto
+2. Clone o projeto
 
   git clone https://github.com/FilipeAndre-Silva/Primeira_Automacao_Python.git
   - Entrar na pasta do projeto.
 
 
-- Criar a virtualenv do projeto:
+3. Criar a virtualenv do projeto:
 
   python3 -m venv .venv
   
-- Iniciar a virtualenv:
+4. Iniciar a virtualenv:
   
   . ./venv/bin/activate
 
 
-- Atualizar o pip:
+5. Atualizar o pip:
   
   pip3 install --upgrade pip
   
-- Instalar os requisitos: 
+6. Instalar os requisitos: 
   
   pip install Selenium
   
   pip install webdriver_manager
 
-- Executar o .py:
+7. Executar o .py:
   
   python3 whatsapp_bot.py
   
-- Apois isso o navegador Firefox vai abrir o whatsapp web, onde vai aguardar a sua autenticação pelo QR Code.
+8. Apois isso o navegador Firefox vai abrir o whatsapp web, onde vai aguardar a sua autenticação pelo QR Code.
   
   O Bot do Whatsapp agora está ativo no seu navegador :)
   
