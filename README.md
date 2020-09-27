@@ -6,7 +6,7 @@ Nesse repositório terá minha primeira experiência com automação usando a li
 Objetivo: Desenvolver mesmo que de forma simples uma automatização sobre a rede social Whatsapp Web.
 
 Requisitos para execução da automação:
-Será importante a instalação no seu ambiente os itens listados para executar a solução.
+Será importante instalação no seu ambiente os itens listados para executar a solução.
 - Python
 - Selenium;
 - Webdriver_manager
@@ -36,20 +36,23 @@ Será importante a instalação no seu ambiente os itens listados para executar 
   
   pip3 install --upgrade pip
   
-- Instalar os requisistos: 
+- Instalar os requisitos: 
   
   pip install Selenium
   
   pip install webdriver_manager
 
-- Executar o py:
+- Executar o .py:
   
   python3 whatsapp_bot.py
   
-- Apois isso o navegador Firefox vai abrir no link do whatsapp web, onde vai aguardar a sua autenticação pelo QR code.
+- Apois isso o navegador Firefox vai abrir o whatsapp web, onde vai aguardar a sua autenticação pelo QR Code.
   
   O Bot do Whatsapp agora está ativo no seu navegador :)
   
-- Para alterar a mensagem do Bot bastar abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
+  Essa versão do Bot do Whatsapp está respondendo automaticamente TODAS AS MENSAGENS (inclusive de grupos) com um texto predeterminado.
+  
+  
+- Para alterar a mensagem do bot basta abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
   
   Dentro de whatsapp_bot.py existe uma variável chamado mensagem_bot(linha 8) onde contem o texto resposta da automação.
