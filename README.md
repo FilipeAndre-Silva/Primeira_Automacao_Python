@@ -46,7 +46,7 @@ Será importante instalação no seu ambiente os itens listados para executar a 
   
     python3 whatsapp_bot.py
   
-8. Após isso o navegador Firefox vai abrir o whatsapp web, onde vai aguardar a sua autenticação pelo QR Code.
+8. Após executar o .py o navegador Firefox vai abrir o whatsapp web, onde vai aguardar a sua autenticação pelo QR Code.
   
     O Bot do Whatsapp agora está ativo no seu navegador :)
   
