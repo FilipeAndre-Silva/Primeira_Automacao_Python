@@ -23,7 +23,7 @@ Caso não tenha o Python instalado acesse o link e faça o download: https://www
 
 
 - Criar a virtualenv do projeto:
-python3 -m venv .venv
+    python3 -m venv .venv
   
 - Iniciar a virtualenv: . ./venv/bin/activate
 
