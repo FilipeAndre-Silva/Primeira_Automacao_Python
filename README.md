@@ -56,3 +56,5 @@ Será importante instalação no seu ambiente os itens listados para executar a 
 - Para alterar a mensagem do bot basta abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
   
   Dentro de whatsapp_bot.py existe uma variável chamado mensagem_bot(linha 8) onde contem o texto resposta da automação.
+  
+  **Pretendo melhorar o comportamento e condições da automação em breve.
