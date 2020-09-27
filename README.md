@@ -51,3 +51,5 @@ Caso não tenha o Python instalado acesse o link e faça o download:
   python3 whatsapp_bot.py
   
 - Apois isso o navegador Firefox vai abrir no link do whatsapp web, onde vai aguardar a sua autenticação pelo QR code.
+  
+  O Bot do Whatsapp agora está ativo no seu navegador :)
