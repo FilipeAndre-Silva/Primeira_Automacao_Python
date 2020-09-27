@@ -49,3 +49,7 @@ Será importante a instalação no seu ambiente os itens listados para executar 
 - Apois isso o navegador Firefox vai abrir no link do whatsapp web, onde vai aguardar a sua autenticação pelo QR code.
   
   O Bot do Whatsapp agora está ativo no seu navegador :)
+  
+- Para alterar a mensagem do Bot bastar abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
+  
+  Dentro de whatsapp_bot.py existe uma variável chamado mensagem_bot(linha 8) onde contem o texto resposta da automação.
