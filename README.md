@@ -15,11 +15,11 @@ Será importante instalação no seu ambiente os itens listados para executar a 
 ## Passo a Passo
 1. Utilizando o terminal:
 
-  Caso não tenha o Python instalado acesse o link : https://www.python.org/
+    Caso não tenha o Python instalado acesse o link : https://www.python.org/
 
 2. Clone o projeto
 
-  git clone https://github.com/FilipeAndre-Silva/Primeira_Automacao_Python.git
+    git clone https://github.com/FilipeAndre-Silva/Primeira_Automacao_Python.git
   - Entrar na pasta do projeto.
 
 
