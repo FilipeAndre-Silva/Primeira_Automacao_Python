@@ -25,32 +25,32 @@ Será importante instalação no seu ambiente os itens listados para executar a 
 
 3. Criar a virtualenv do projeto:
 
-  python3 -m venv .venv
+    python3 -m venv .venv
   
 4. Iniciar a virtualenv:
   
-  . ./venv/bin/activate
+    . ./venv/bin/activate
 
 
 5. Atualizar o pip:
   
-  pip3 install --upgrade pip
+    pip3 install --upgrade pip
   
 6. Instalar os requisitos: 
   
-  pip install Selenium
+    pip install Selenium
   
-  pip install webdriver_manager
+    pip install webdriver_manager
 
 7. Executar o .py:
   
-  python3 whatsapp_bot.py
+    python3 whatsapp_bot.py
   
 8. Apois isso o navegador Firefox vai abrir o whatsapp web, onde vai aguardar a sua autenticação pelo QR Code.
   
-  O Bot do Whatsapp agora está ativo no seu navegador :)
+    O Bot do Whatsapp agora está ativo no seu navegador :)
   
-  Essa versão do Bot do Whatsapp está respondendo automaticamente TODAS AS MENSAGENS (inclusive de grupos) com um texto predeterminado.
+    Essa versão do Bot do Whatsapp está respondendo automaticamente TODAS AS MENSAGENS (inclusive de grupos) com um texto predeterminado.
   
   
 - Para alterar a mensagem do bot basta abrir em qualquer editor de texto o arquivo whatsapp_bot.py:
