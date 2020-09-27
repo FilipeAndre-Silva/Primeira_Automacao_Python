@@ -14,7 +14,8 @@ Será importante a instalação no seu ambiente os itens listados para executar 
 
 # Passo a Passo
 - Utilizando o terminal:
-Caso não tenha o Python instalado acesse o link e faça o download: https://www.python.org/
+
+  Caso não tenha o Python instalado acesse o link e faça o download: https://www.python.org/
 
 - Clone o projeto
 
