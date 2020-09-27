@@ -1,7 +1,7 @@
 # Primeira Automacão com Python
 Meu primeiro contato com automação Python e Selenium.
 
-Nesse repositôrio terá minha primeira experiência com automação usando a linguagem de programação Python e a ferramenta Selenium.
+Nesse repositório terá minha primeira experiência com automação usando a linguagem de programação Python e a ferramenta Selenium.
 
 Objetivo: Desenvolver mesmo que de forma simples uma automatização sobre a rede social Whatsapp Web.
 
